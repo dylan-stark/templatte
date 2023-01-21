@@ -1,0 +1,8 @@
+{
+    "cucumber.features": [
+        "test_acceptance/services/data_drift/features/*.feature"
+    ],
+    "cucumber.glue": [
+        "test_acceptance/services/data_drift/features/steps/*.py"
+    ]
+}
